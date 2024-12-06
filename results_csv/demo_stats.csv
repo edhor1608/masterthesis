@@ -1,0 +1,12 @@
+,Alter,Geschlecht,Bildungsstand
+count,19.0,19,19
+unique,,2,6
+top,,m,Abitur
+freq,,14,7
+mean,31.526315789473685,,
+std,12.13062433610182,,
+min,17.0,,
+25%,25.0,,
+50%,28.0,,
+75%,34.5,,
+max,61.0,,

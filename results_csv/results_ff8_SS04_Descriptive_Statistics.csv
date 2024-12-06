@@ -1,0 +1,5 @@
+,count,mean,std,min,25%,50%,75%,max
+SS_Reaktionszeiten_postQ,19.0,2.3684210526315788,1.01162829777814,1.0,2.0,2.0,2.5,5.0
+SS_Kurvenfahren_postQ,19.0,3.0,0.6666666666666666,2.0,3.0,3.0,3.0,4.0
+SS_Bremsverhalten_postQ,19.0,2.4210526315789473,0.7685331969757723,2.0,2.0,2.0,2.5,4.0
+SS_Verhalten_bei_schwierigen_Wetterbedingungen_postQ,19.0,3.736842105263158,0.7334928056269078,2.0,3.0,4.0,4.0,5.0
